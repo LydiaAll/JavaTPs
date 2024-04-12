@@ -1,4 +1,4 @@
-package EXO4;
+package EXO04;
 
 import java.util.HashMap;
 import java.util.Map;
